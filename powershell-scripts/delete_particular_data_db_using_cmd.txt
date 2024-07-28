@@ -1,0 +1,1 @@
+sqlcmd -S sql1234.site4now.net -d database_username -U user_name -P password -Q "DELETE FROM dbo.log"
